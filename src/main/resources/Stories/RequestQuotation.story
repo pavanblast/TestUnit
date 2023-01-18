@@ -6,4 +6,4 @@ When I click in request quotation,enter all the values and save quotation
 
 Examples:
 |username|password|
-|pavanblast008@gmail.com|Test@123|
+|pavanblast008@gmail.com|Iampavan@123|

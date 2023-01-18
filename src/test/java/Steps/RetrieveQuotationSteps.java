@@ -19,11 +19,11 @@ public class RetrieveQuotationSteps {
         Thread.sleep(2000);
     }
 
-    @When("I click in retrieve quotation,enter quotation number and retrieve the quotation details")
-    public void i_click_in_retrieve_quotation_details()
+    @When("I click in retrieve quotation,enter $quotationnumber and retrieve the quotation details")
+    public void i_click_in_retrieve_quotation_details(String quotationnumber)
     {
         driver.findElement(By.xpath("//*[@id='ui-id-3']")).click();
-        driver.findElement(By.xpath("//*[@id='tabs-3']/form/input[1]")).click();
+        driver.findElement(By.xpath("//*[@id='tabs-3']/form/input[1]")).sendKeys(quotationnumber);
         driver.findElement(By.xpath("//*[@id='getquote']")).click();
 
         Assert.assertTrue(driver.findElement(By.xpath("/html/body/table/tbody/tr[6]/td[2]")).getText().contains("Test"));

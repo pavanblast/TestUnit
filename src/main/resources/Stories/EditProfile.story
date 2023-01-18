@@ -7,4 +7,4 @@ Then I update <Firstname> and <LastName> and click on update user button
 
 Examples:
 |username|password|Firstname|LastName|
-|pavanblast008@gmail.com|Test@123|Pavan|Chingepally|
+|pavanblast008@gmail.com|Iampavan@123|Pavan|Chingepally|

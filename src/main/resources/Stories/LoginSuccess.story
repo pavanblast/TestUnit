@@ -6,4 +6,4 @@ Then I should be loggedin
 
 Examples:
 |username|password|
-|pavanblast008@gmail.com|Test@123|
+|pavanblast008@gmail.com|Iampavan@123|

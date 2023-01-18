@@ -1,9 +1,9 @@
-Story:Request Quotation
+Story:Retrieve Quotation
 
-Scenario: Request quotation from an application
+Scenario: Retrieve quotation from an application
 Given I launched application and logged in with <username> and <password>
-When I click in retrieve quotation,enter quotation number and retrieve the quotation details
+When I click in retrieve quotation,enter <quotationnumber> and retrieve the quotation details
 
 Examples:
-|quotation|
+|quotationnumber|
 |20447|
