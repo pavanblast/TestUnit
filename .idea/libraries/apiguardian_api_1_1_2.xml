@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="apiguardian-api-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libs/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/ci-environment-9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/cucumber-core-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/cucumber-expressions-16.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/cucumber-gherkin-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/cucumber-gherkin-messages-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/cucumber-java-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/cucumber-plugin-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/datatable-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/docstring-7.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/gherkin-26.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/html-formatter-20.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/junit-xml-formatter-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/messages-21.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libs/tag-expressions-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
